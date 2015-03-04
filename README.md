@@ -6,4 +6,4 @@
 
 ### 用 IPython NBViwer 看筆記
 
-[IPython Notebook 筆記](http://nbviewer.ipython.org/github/yenlung/Play-Data-with-IPython/blob/master/Play%20Data%20with%20IPython.ipynb)
+[IPython Notebook 筆記](http://nbviewer.ipython.org/github/yenlung/Introduction-to-Tropical-Geometry-in-IPython/blob/master/Introduction%20to%20Tropical%20Geometry%20in%20IPython.ipynb)
